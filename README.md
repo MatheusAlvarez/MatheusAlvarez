@@ -1,7 +1,7 @@
 ## Olá! Sou o Matheus Maia
 <div>
   <a href="https://github.com/MatheusAlvarez">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusalvarez&show_icons=true&theme=highcontrast&include_all_commits=false&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusalvarez&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusalvarez&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
 <div style="display: inline_block"><br>
