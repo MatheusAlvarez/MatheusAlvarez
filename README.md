@@ -12,6 +12,7 @@
   <img align="center" alt="Matheus-VSCode" height="30" width="40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg ">
   <img align="center" alt="Matheus-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
-  <div>
+ 
+   
     ![Snake animation](https://github.com/MatheusAlvarez/MatheusAlvarez/blob/output/github-contribution-grid-snake.svg)
-  </div>
+
