@@ -11,6 +11,13 @@
   <img align="center" alt="Matheus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Matheus-VSCode" height="30" width="40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg ">
   <img align="center" alt="Matheus-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+ </div>
+  
+  ##
+  
+  <div>
+     <a href="https://www.linkedin.com/in/matheus-maia-alvarez-/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  </div>
  
   ![Snake animation](https://github.com/MatheusAlvarez/MatheusAlvarez/blob/output/github-contribution-grid-snake.svg)
  
