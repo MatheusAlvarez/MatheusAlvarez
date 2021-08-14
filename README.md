@@ -11,7 +11,7 @@
   <img align="center" alt="Matheus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Matheus-VSCode" height="30" width="40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg ">
   <img align="center" alt="Matheus-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-   <img align="right" alt="Matheus-Gif" height="150" width="150" src="https://media.giphy.com/media/79Uu46amxwDhbYOEPE/giphy.gif">
+   <img align="right" alt="Matheus-Gif" height="135" width="135" src="https://media.giphy.com/media/79Uu46amxwDhbYOEPE/giphy.gif">
  </div>
   
   ##
