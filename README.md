@@ -1,5 +1,6 @@
 ## 👨‍💻Olá! Sou o Matheus Maia Alvarez 
 💥💻Seja bem-vindo ao meu perfil! 
+
 <div>
   <a href="https://github.com/MatheusAlvarez">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=matheusalvarez&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
@@ -11,7 +12,7 @@
   <img align="center" alt="Matheus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Matheus-VSCode" height="30" width="40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg ">
   <img align="center" alt="Matheus-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-   <img align="right" alt="Matheus-Gif" height="135" width="135" src="https://media.giphy.com/media/79Uu46amxwDhbYOEPE/giphy.gif">
+   <img align="right" alt="Matheus-Gif" height="135" width="135" src="https://media.giphy.com/media/rQv1fBMeK0ZAtWBMHS/giphy.gif">
  </div>
   
   ##
