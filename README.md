@@ -1,7 +1,7 @@
 ## 👨‍💻Olá! Sou o Matheus Maia Alvarez 
 💥💻Seja bem-vindo ao meu perfil! <br><br>
 👨‍🎓Sou estudante de Desenvolvimento de Sistemas no Senai Suiço-Brasileira<br><br>
-⚡Gosto bastante de resolver problemas e aprender coisas novas. Estou sempre aberto a novos desafios e mudanças 
+⚡Gosto bastante de aprender coisas novas. Estou sempre aberto a novos desafios e mudanças 
 
 <div>
   <a href="https://github.com/MatheusAlvarez">
