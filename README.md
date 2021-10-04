@@ -11,9 +11,12 @@
     <a href="https://github.com/MatheusAlvarez">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=matheusalvarez&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   </div>
+  <br>
 <!-- Fim seção estatística pessoal -->
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusAlvarez&theme=gotham)]()
+  
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MatheusAlvarez&theme=gotham&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=10" height ="165"/>
   
 <!-- Seção ícons -->
   <div style="display: inline_block"><br>
