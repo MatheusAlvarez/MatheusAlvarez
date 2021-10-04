@@ -35,5 +35,7 @@
   </div>
 <!-- Fim seção contato -->
  
+<!-- Animação Snake  -->
   ![Snake animation](https://github.com/MatheusAlvarez/MatheusAlvarez/blob/output/github-contribution-grid-snake.svg)
+<!-- Fim animção Snake -->
   
