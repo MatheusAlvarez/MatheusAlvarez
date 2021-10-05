@@ -1,6 +1,6 @@
 <!-- Seção apresentação  -->
   ## 👨‍💻Olá! Sou o Matheus Maia Alvarez <img src="https://i.imgur.com/u8HivgI.gif" width="25px">
-  💥💻Seja bem-vindo ao meu perfil! <br><br>
+  💥💻Seja bem-vindo ao meu perfil! <br><br
   👨‍🎓Sou estudante de Desenvolvimento de Sistemas no Senai Suiço-Brasileira<br><br>
   🦇Gosto bastante de aprender coisas novas. Estou sempre aberto a novos desafios e mudanças.<br><br>
   🚦🚗Matheus-Motors:  https://matheusalvarez.github.io/Matheus-Motors/
