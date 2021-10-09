@@ -3,7 +3,7 @@
   💥💻Seja bem-vindo ao meu perfil! <br><br>
   👨‍🎓Sou estudante de Desenvolvimento de Sistemas no Senai Suiço-Brasileira<br><br>
   🦇Gosto bastante de aprender coisas novas. Estou sempre aberto a novos desafios e mudanças.<br><br>
-  💥 Meus Projeto: https://matheusalvarez.github.io/Meus-Projetos/
+  💥 Meus Projeto: https://matheusalvarez.github.io/Meus-Projetos/ (Não responsivo)
 <!-- Fim seção apresentação -->
 
 <!-- Seção estatística pessoal -->
