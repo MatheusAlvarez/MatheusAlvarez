@@ -12,9 +12,9 @@
   </div>
   <br>
 <!-- Fim seção estatística pessoal -->
-<!-- Seção linguas   -->
+
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusAlvarez&theme=gotham)]()
-<!-- Fim seção linguas -->
+
 
   
 <!-- Seção ícons -->
