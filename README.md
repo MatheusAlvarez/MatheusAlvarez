@@ -13,10 +13,6 @@
   <br>
 <!-- Fim seção estatística pessoal -->
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusAlvarez&theme=gotham)]()
-
-
-  
 <!-- Seção ícons -->
   <div style="display: inline_block"><br>
     :octocat:
