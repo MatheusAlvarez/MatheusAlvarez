@@ -1,5 +1,5 @@
 <!-- Seção apresentação  -->
-  ## 👨‍💻Olá! Sou o Matheus Maia Alvarez <img src="https://i.pinimg.com/originals/10/27/f8/1027f80aeabcbb74a2e698be71829e9e.gif" width="26px">
+  ## 👨‍💻Olá! Sou o Matheus Maia Alvarez <img src="https://i.pinimg.com/originals/10/27/f8/1027f80aeabcbb74a2e698be71829e9e.gif" width="40px">
   💥💻Seja bem-vindo ao meu perfil! <br><br>
   👨‍🎓Sou estudante de Desenvolvimento de Sistemas no Senai Suiço-Brasileira<br><br>
   🦇Gosto bastante de aprender coisas novas. Estou sempre aberto a novos desafios e mudanças.<br><br>
