@@ -41,6 +41,8 @@
      <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
      <a href="https://www.linkedin.com/in/matheus-maia-alvarez-/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-     badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
+    
+  <img src="https://66.media.tumblr.com/tumblr_mbwc3hclbO1rfjowdo1_500.gif" width="150px">
 <!-- Fim seção contato -->
  
 <!-- Animação Snake  -->
