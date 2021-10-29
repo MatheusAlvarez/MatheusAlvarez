@@ -28,6 +28,7 @@
     <img align="center" alt="Matheus-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 <!-- <img align="center" alt="Matheus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> -->
 <!-- <img align="center" alt="Matheus-Java" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> -->
+    <img src="https://66.media.tumblr.com/tumblr_mbk4u8y25n1rfjowdo1_500.gif" width="40px">
     <img align="right" alt="Matheus-Gif" height="135" width="135" src="https://media.giphy.com/media/rQv1fBMeK0ZAtWBMHS/giphy.gif">
    </div>
 <!-- Fim seção ícons  -->
