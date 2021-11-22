@@ -44,7 +44,6 @@
     
 <!-- Fim seção contato -->
  
-<img align="right" alt="Matheus-Gif" height="135" width="135" src="https://images.vexels.com/media/users/3/128687/isolated/preview/8fc3e9ba071c46e596b2521503e1b0c9-papai-noel-carregando-sacola-de-presente.png">
     
 <!-- Animação Snake  -->
   ![Snake animation](https://github.com/MatheusAlvarez/MatheusAlvarez/blob/output/github-contribution-grid-snake.svg)
