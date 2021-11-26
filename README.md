@@ -43,7 +43,7 @@
   </div>
     
 <!-- Fim seção contato -->
- 
+ <img src="https://2.bp.blogspot.com/-jm3rvZeFPMU/WDtqaH0KP9I/AAAAAAABI2I/qpPmSOe2GVwbXckS2-vNBsNybiipC6i8ACLcB/s1600/Figura%2Bdo%2BPapai%2BNoel%2Bem%2Bpng%2B%25284%2529.gif" width="80px">
     
 <!-- Animação Snake  -->
   ![Snake animation](https://github.com/MatheusAlvarez/MatheusAlvarez/blob/output/github-contribution-grid-snake.svg)
