@@ -43,6 +43,8 @@
   </div>
     
 <!-- Fim seção contato -->
+    
+  <img src="https://image.freepik.com/fotos-gratis/papai-noel-usando-a-tecnologia_102671-5458.jpg" width="270px">
  <img src="https://2.bp.blogspot.com/-jm3rvZeFPMU/WDtqaH0KP9I/AAAAAAABI2I/qpPmSOe2GVwbXckS2-vNBsNybiipC6i8ACLcB/s1600/Figura%2Bdo%2BPapai%2BNoel%2Bem%2Bpng%2B%25284%2529.gif" width="80px">
     
 <!-- Animação Snake  -->
