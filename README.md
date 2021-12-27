@@ -45,7 +45,7 @@
     
 <!-- Fim seção contato -->
     
-
+<img src="https://cliply.co/wp-content/uploads/2018/12/CLIPLY_371811270_CONFETTI_2022_400.gif" width="80px">
     
 <!-- Animação Snake  -->
   ![Snake animation](https://github.com/MatheusAlvarez/MatheusAlvarez/blob/output/github-contribution-grid-snake.svg)
