@@ -7,7 +7,7 @@
   📄Meu currículo: https://matheusalvarez.github.io/Pagina-Curriculo/<br><br>
   📝LinkedIn: https://br.linkedin.com/in/matheus-maia-alvarez-<br><br>
   🚗Matheus-Motors: https://matheusalvarez.github.io/Matheus-Motors-Reformado/<br><br>
-  🚧Projeto em construção: https://github.com/MatheusAlvarez/projeto-dsmovie<br>
+  🚧Projeto em construção: https://github.com/MatheusAlvarez/projeto-dsmovie<br> 
    
 <!-- Fim seção apresentação -->
   <div>
