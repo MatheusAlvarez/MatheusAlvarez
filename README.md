@@ -6,7 +6,7 @@
   🦇Gosto bastante de aprender coisas novas. Estou sempre aberto a novos desafios e mudanças.<br><br>
   📄Meu currículo: https://matheusalvarez.github.io/Pagina-Curriculo/<br><br>
   📝LinkedIn: https://br.linkedin.com/in/matheus-maia-alvarez-<br><br>
-  🚗Matheus-Motors: https://matheusalvarez.github.io/Matheus-Motors-Reformado/<br><br>
+  🌟Destaque do mês: https://github.com/MatheusAlvarez/projeto-dsmovie<br>
    
 <!-- Fim seção apresentação -->
   <div>
