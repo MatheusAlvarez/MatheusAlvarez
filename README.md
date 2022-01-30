@@ -28,7 +28,7 @@
     <img align="center" alt="Matheus-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
     <img align="center" alt="Matheus-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="Matheus-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-    <!-- <img align="center" alt="Matheus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> -->
+    <img align="center" alt="Matheus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <!-- <img align="center" alt="Matheus-Java" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> -->
     <img align="center" alt="Matheus-MySQL" height="40" width="50" src="https://marcas-logos.net/wp-content/uploads/2020/11/MySQL-logo.png">
     <img align="right" alt="Matheus-Gif" height="135" width="135" src="https://media.giphy.com/media/rQv1fBMeK0ZAtWBMHS/giphy.gif">
