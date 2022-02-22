@@ -5,7 +5,8 @@
   👨‍💻Sou estudante de Desenvolvimento de Sistemas no Senai Suiço-Brasileira<br><br>
   🦇Gosto bastante de aprender coisas novas. Estou sempre aberto a novos desafios e mudanças.<br><br>
   📝LinkedIn: https://br.linkedin.com/in/matheus-maia-alvarez-<br><br>
-  🚧 Novo projeto em construção!!!!!
+  🚧 Novo projeto em construção!!!!!<br><br>
+  Estudo atual: JavaScript
   
    
 <!-- Fim seção apresentação -->
