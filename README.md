@@ -1,53 +1,53 @@
-<!-- Seção apresentação  -->
-  ## 👨‍💻Olá! Sou Matheus Maia Alvarez <img src="https://i.pinimg.com/originals/fc/fa/31/fcfa316b33aa1f3c05a67d195ddbb686.gif" width="40px">
-  
-  🎆Seja bem-vindo ao meu perfil!<br><br>
-  👨‍💻Sou estudante de Desenvolvimento de Sistemas no Senai Suiço-Brasileira<br><br>
-  🦇Gosto bastante de aprender coisas novas. Estou sempre aberto a novos desafios e mudanças.<br><br>
-  📝LinkedIn: https://br.linkedin.com/in/matheus-maia-alvarez-<br><br>
-  🚧 Novo projeto em construção!!!!!  (Página pessoal? Loja virtual? Site de filmes?)<br><br>
-  
-   
-<!-- Fim seção apresentação -->
-  <div>
-    <a href="https://github.com/MatheusAlvarez">
-          <img height="160em" src="https://github-readme-stats.vercel.app/api?username=matheusalvarez&show_icons=true&theme=gotham&&count_private=true"/>
-     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusAlvarez&layout=compact&langs_count=7&theme=gotham"/>
-  </div>
-<!-- Seção estatística pessoal -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Matheus Maia Alvarez&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-  <br>
-<!-- Fim seção estatística pessoal -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Matheus+Maia+Alvarez;I'm+17+years+old;I+from+Carapicuíba,+SP;I+study+systems+development+at+Senai;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<!-- Seção ícons -->
-  <div style="display: inline_block"><br>
-    :octocat:
-    <img align="center" alt="Matheus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Matheus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Matheus-VSCode" height="30" width="40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg ">
-<!--     <img align="center" alt="Matheus-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> -->
-    <img align="center" alt="Matheus-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="Matheus-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-    <img align="center" alt="Matheus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-     <img align="center" alt="Matheus-Figma" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
-    <!-- <img align="center" alt="Matheus-Java" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> -->
-    <img align="center" alt="Matheus-MySQL" height="40" width="50" src="https://marcas-logos.net/wp-content/uploads/2020/11/MySQL-logo.png">
-    <img align="right" alt="Matheus-Gif" height="135" width="135" src="https://media.giphy.com/media/rQv1fBMeK0ZAtWBMHS/giphy.gif">
-   </div>
-<!-- Fim seção ícons  -->
-  
-  ## 
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MatheusAlvarez&theme=gotham&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="Matheus Maia Alvarez" /></div>
+<br>
 
-<!-- Seção contato   -->
-  <div>
-     <a href="https://www.instagram.com/mthalvarez_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
-     <a href="https://www.linkedin.com/in/matheus-maia-alvarez-/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-     badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  </div>
-    
-<!-- Fim seção contato -->
-    
-<!-- Animação Snake  -->
-  ![Snake animation](https://github.com/MatheusAlvarez/MatheusAlvarez/blob/output/github-contribution-grid-snake.svg)
-<!-- Fim animção Snake -->
-  
+<!-- ./STAT -->
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MatheusAlvarez&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusAlvarez&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
+<!-- ./STATS  -->
+
+![Contribution](https://activity-graph.herokuapp.com/graph?username=MatheusAlvarez&theme=gotham&hide_border=true&area=true)
+
+<div align="center">  
+<a href="https://www.instagram.com/mthalvarez_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+</div> 
+
+### Main skills:
+
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp;
+
+### Tools:
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
+![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
+![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
+
+### Other Knowledge:
+
+![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
+![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
+![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
+
+### Studying in this moment:
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MatheusAlvarez}/count.svg" /></p> 
+<br></div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
